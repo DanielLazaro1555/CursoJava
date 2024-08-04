@@ -41,4 +41,4 @@ Para comenzar el curso, sigue estos pasos:
 
 ---
 
-**Nota:** Todo el contenido fue creado por mí. Por favor, tomen la información con responsabilidad y no la comercialicen. El conocimiento es libre y compartible, y espero que lo que les comparto sea útil :)
+**Nota:** Todo el contenido fue creado por mí. Por favor, tomen la información con responsabilidad y no la comercialicen ya que añadire mas temas para que se pueda ampliar el contenido. El conocimiento es libre y compartible, y espero que lo que les comparto sea útil :)
