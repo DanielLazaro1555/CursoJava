@@ -3,7 +3,7 @@
 Curso de Udemy - Aprende a programar en el lenguaje Java y conviértete en un programador Java Experto.
 
 ## Introducción
-En este curso, aprenderás los conceptos fundamentales del lenguaje de programación Java, incluyendo su sintaxis, características clave, y las mejores prácticas para escribir código limpio y mantenible. El curso está diseñado para llevarte desde un nivel básico hasta un nivel avanzado, ayudándote a construir una sólida base en Java.
+En este curso, aprenderás los conceptos fundamentales del lenguaje de programación Java, incluyendo su sintaxis, características clave, y las mejores prácticas para escribir código limpio y mantenible. El curso está diseñado para llevarte desde un nivel básico hasta un nivel intermedio, ayudándote a construir una sólida base en Java.
 
 ## Contenidos del Curso
 A lo largo del curso, cubriremos los siguientes temas:
